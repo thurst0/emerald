@@ -13,10 +13,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas sed quo atque
 > This is a blockquote
 
 ### Project Ideas
-- Stock Ticker Tracking & Charts : Using new angular
-- 
+- Stock Ticker Tracking & Charts : Using new angular, express web servies, and mongodb
+- Put zen project on git
+- Put triptracker project on git (asp.net, wpf, web services)
+- Lightweight feature mgmt app. LiteTask. Upvote capabilities. Feature or task/issue. Model around basecamp.
+- Rock n roam.  Could integrate with jambase, maybe just google maps for starters.  Input and remove locations & dates (optional) to build a editable grid, and map.  Change sequence.  Calculate step distance.  View nearby locations, and shows (if date). Pin music and notes to a step.
 
-### Development Principals
+### Development Principals for Winning
 1. Egoless dev
 2. Basecamp
 3. Joel 10 steps to good code.
